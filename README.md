@@ -1,5 +1,3 @@
-An analysis and design framework
-
 ## Repo Layout
 
     .
