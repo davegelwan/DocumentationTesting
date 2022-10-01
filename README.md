@@ -1,4 +1,4 @@
-An analysis and design framework for electric quiet propulsion.
+An analysis and design framework
 
 ## Repo Layout
 
